@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">416906468387-hn4fjtp89askqggfq2u7pl39skf1v9nb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">416906468387</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQVDfWuaOFWlvMaFo1w82WEaIDG-AX4ss</string>
+    <string name="google_app_id" translatable="false">1:416906468387:android:45cabc5c981c54377e6596</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQVDfWuaOFWlvMaFo1w82WEaIDG-AX4ss</string>
+    <string name="google_storage_bucket" translatable="false">homelessalone-38315.appspot.com</string>
+    <string name="project_id" translatable="false">homelessalone-38315</string>
+</resources>

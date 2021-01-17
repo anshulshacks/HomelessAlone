@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416906468387",
+    "project_id": "homelessalone-38315",
+    "storage_bucket": "homelessalone-38315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416906468387:android:45cabc5c981c54377e6596",
+        "android_client_info": {
+          "package_name": "com.example.HomelessAlone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416906468387-hn4fjtp89askqggfq2u7pl39skf1v9nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVDfWuaOFWlvMaFo1w82WEaIDG-AX4ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416906468387-hn4fjtp89askqggfq2u7pl39skf1v9nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
